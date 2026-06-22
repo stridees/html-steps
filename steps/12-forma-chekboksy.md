@@ -1,6 +1,6 @@
 # Шаг 12. Форма: чекбоксы
 
-[Оглавление](00-karta-kursa.md) | [Назад: Шаг 11](11-forma-radioknopki.md)
+[Оглавление](00-karta-kursa.md) | [Назад: Шаг 11](11-forma-radioknopki.md) | [Дальше: Шаг 13](13-css-zachem-oformlenie.md)
 
 ## Цель
 
@@ -108,4 +108,4 @@
 
 ---
 
-[Оглавление](00-karta-kursa.md) | [Назад: Шаг 11](11-forma-radioknopki.md)
+[Оглавление](00-karta-kursa.md) | [Назад: Шаг 11](11-forma-radioknopki.md) | [Дальше: Шаг 13](13-css-zachem-oformlenie.md)
